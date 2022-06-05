@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="336d2e82-ad25-45c7-95a0-9b36ff3dba8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="70ab5683-cdb4-45de-ac18-72a424a2f702" />
+  <component name="ProjectId" id="1wWYLevj8fEwkNPM2tKzZZAKSUE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/全局" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/全局" />
+      <recent name="$PROJECT_DIR$/whole" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Code" />
+      <recent name="$PROJECT_DIR$/Noise" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/全局" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.headset_class">
+    <configuration name="audio_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RealWare Sound Recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/audio_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RealWare Sound Recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/data_log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="headset_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RealWare Sound Recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/headset_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="log_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RealWare Sound Recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/log_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RealWare Sound Recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/multi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.headset_class" />
+        <item itemvalue="Python.data_log" />
+        <item itemvalue="Python.multi" />
+        <item itemvalue="Python.audio_test" />
+        <item itemvalue="Python.log_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="336d2e82-ad25-45c7-95a0-9b36ff3dba8a" name="Default Changelist" comment="" />
+      <created>1628575757012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628575757012</updated>
+      <workItem from="1628575761420" duration="19610000" />
+      <workItem from="1628658381784" duration="13539000" />
+      <workItem from="1628737199267" duration="350000" />
+      <workItem from="1628737583323" duration="8621000" />
+      <workItem from="1628835351077" duration="103000" />
+      <workItem from="1628835672322" duration="106000" />
+      <workItem from="1629080881569" duration="4829000" />
+      <workItem from="1629093220414" duration="1063000" />
+      <workItem from="1629096496513" duration="385000" />
+      <workItem from="1629097024798" duration="1383000" />
+      <workItem from="1629100204755" duration="1839000" />
+      <workItem from="1629102100186" duration="689000" />
+      <workItem from="1629103844150" duration="2372000" />
+      <workItem from="1629107542503" duration="2591000" />
+      <workItem from="1629871525188" duration="8692000" />
+      <workItem from="1630820978045" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="98" key="#Plugins" timestamp="1628737548179">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="98" key="#Plugins/0.0.1440.900@0.0.1440.900" timestamp="1628737548179" />
+    <state x="421" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1628733262587">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="255" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1628733262587" />
+    <state x="520" y="358" key="Github.CreateGistDialog" timestamp="1628737295602">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="520" y="358" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1628737295602" />
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom" timestamp="1630820568624">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1630651735959" />
+    <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1630820568623" />
+    <state width="1398" height="285" key="GridCell.Tab.0.center" timestamp="1630820568622">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1630651735957" />
+    <state width="1398" height="285" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1630820568622" />
+    <state width="1398" height="285" key="GridCell.Tab.0.left" timestamp="1630820568620">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1630651735956" />
+    <state width="1398" height="285" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1630820568620" />
+    <state width="1398" height="285" key="GridCell.Tab.0.right" timestamp="1630820568622">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1398" height="285" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1630651735958" />
+    <state width="1398" height="285" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1630820568622" />
+    <state width="1398" height="298" key="GridCell.Tab.1.bottom" timestamp="1629107746340">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1629107746340" />
+    <state width="1398" height="298" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1628824248940" />
+    <state width="1398" height="298" key="GridCell.Tab.1.center" timestamp="1629107746339">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1629107746339" />
+    <state width="1398" height="298" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1628824248939" />
+    <state width="1398" height="298" key="GridCell.Tab.1.left" timestamp="1629107746338">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1629107746338" />
+    <state width="1398" height="298" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1628824248938" />
+    <state width="1398" height="298" key="GridCell.Tab.1.right" timestamp="1629107746340">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1629107746340" />
+    <state width="1398" height="298" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1628824248940" />
+    <state x="422" y="58" width="596" height="783" key="find.popup" timestamp="1629103878731">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="422" y="58" width="596" height="783" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1629103878731" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1628656834401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1628656834401" />
+    <state x="810" y="352" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1628737538427">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="810" y="352" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.828@0.23.1440.828" timestamp="1628737538427" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RealWare_Sound_Recognition$audio_test.coverage" NAME="audio_test Coverage Results" MODIFIED="1629090130852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/RealWare_Sound_Recognition$email.coverage" NAME="email_excel Coverage Results" MODIFIED="1628736121239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/RealWare_Sound_Recognition$multi.coverage" NAME="multi Coverage Results" MODIFIED="1629091762813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/RealWare_Sound_Recognition$play_audio.coverage" NAME="play_audio Coverage Results" MODIFIED="1628580835017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealWare_Sound_Recognition$data_log.coverage" NAME="data_log Coverage Results" MODIFIED="1629878620380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Code" />
+    <SUITE FILE_PATH="coverage/RealWare_Sound_Recognition$noise_settings.coverage" NAME="noise_settings Coverage Results" MODIFIED="1628674575639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealWare_Sound_Recognition$log_data.coverage" NAME="log_data Coverage Results" MODIFIED="1628744249221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealWare_Sound_Recognition$headset_class.coverage" NAME="headset_class Coverage Results" MODIFIED="1629950441662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
